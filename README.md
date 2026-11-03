@@ -2,6 +2,10 @@
 
 キャラクターを前に倒し続けて走ると英単語(意味+音声)が流れてくる、1000mでテストが始まる英語学習ミニゲーム。
 
+## 遊ぶ
+GitHub Pages: https://kakkun15.github.io/kakkun-minigame/
+(Settings → Pages で公開ブランチ/`/ (root)` を設定すると有効になります)
+
 ## 遊び方
 `index.html` をブラウザで開くだけ(スマホ・PC対応、ビルド不要)。
 
