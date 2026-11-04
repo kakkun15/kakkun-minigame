@@ -28,3 +28,6 @@ GitHub Pages: https://kakkun15.github.io/kakkun-minigame/
 | 離す | マスに叩きつけて回答。溜めるほど高得点 |
 
 `M` またはスピーカーボタンでミュート。
+
+## かぜはしり(走るのが気持ちいいランゲーム)
+https://kakkun15.github.io/kakkun-minigame/kazehashiri/
